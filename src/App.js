@@ -13,7 +13,7 @@ const projects = [
       name: "Chat App",
       description: "This is a real-time chat application that uses an HTML frontend that connects to WebSocket in the backend to display send and receive messages from one client to another instantly. WebSocket is being hosted by Elastic Beanstalk through AWS. *Please do not include any personal/sensitive information as the site is using http therefore is unsecure.",
       url: "http://websocket-server-env.eba-crjzue9b.us-east-1.elasticbeanstalk.com/", 
-      screenshot: "img/chat-app-ss.png" 
+      screenshot: "img/chat-app-ss.png" //Screenshot will display on build but not locally
   },
   {
     id: 3,
