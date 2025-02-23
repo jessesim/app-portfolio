@@ -44,7 +44,7 @@ function Portfolio() {
       {/* Header */}
       <header className="bg-gray-800 text-center py-6">
         <h1 className="text-3xl font-bold">Jesse's Projects</h1>
-        <p className="text-lg mt-2">Here is a portfolio of my web applications. Applications with running with a backend can be viewed by clicking "View Full Project"</p>
+        <p className="text-lg mt-2">Here is a portfolio of my web applications. Applications running with a backend like the Chat App can be viewed by clicking "View Full Project"</p>
       </header>
 
       {/* Projects Section */}
