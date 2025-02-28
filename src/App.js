@@ -35,7 +35,15 @@ const projects = [
     description: "A simple quiz application using HTML, CSS, and JavaScript. When answers are clicked their radio is selected. When the quiz is submitted questions with correct answers selected will light up green and incorrect answers red. The total number of correct answers out of the total questions are also displayed at the end.",
     url: "https://jessesim.github.io/quiz-app/",
     embedUrl: "https://jessesim.github.io/quiz-app/"
+  },
+  {
+    id: 6,
+    name: "Blog App",
+    description: "Created a simple blog application using HTML, CSS, Flask, Jinja, Python, and SQLAlchemy. Now hosted with AWS Elastic Beanstalk. The app provides functionality to create, update, and delete blog posts.",
+    url: "http://blog-application2.us-east-1.elasticbeanstalk.com/", 
+    screenshot: "img/blog.png" //Screenshot will display on build but not locally
   }
+
 ];
 
 function Portfolio() {
